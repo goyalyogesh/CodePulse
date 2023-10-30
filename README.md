@@ -1,6 +1,7 @@
 # CodePulse
 
 **1. Download and install **
+
 .Net SDK and .Net Runtime
 https://dotnet.microsoft.com/en-us/download
 .Net 7.0 , ASP.NET Core Runtime 7.0.3
